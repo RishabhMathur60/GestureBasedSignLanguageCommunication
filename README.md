@@ -1,4 +1,4 @@
-# Indian Sign Detector
+# Gesture Based Indian Sign Detector
 
 This is a python project capable of recognizing and converting Indian Sign Language into words in real-time. 
 
